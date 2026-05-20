@@ -1,6 +1,6 @@
 import json
-from src.grafo import Grafo
-from src.modelos import Vertice
+from grafo import Grafo
+from modelos import Vertice
 
 class LeitorJSON:
     @staticmethod

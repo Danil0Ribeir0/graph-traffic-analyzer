@@ -1,7 +1,7 @@
 import folium
-from src.leitor import LeitorJSON
+from leitor import LeitorJSON
 
-def gerar_visualizacao_inicial():
+def gerar_visualizacao():
     print("Carregando o grafo na memória...")
     caminho_nos = 'data/nos.json'
     caminho_arestas = 'data/arestas.json'

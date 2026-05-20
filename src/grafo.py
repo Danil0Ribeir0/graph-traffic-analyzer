@@ -1,5 +1,5 @@
 from typing import Dict
-from src.modelos import Vertice, Aresta
+from modelos import Vertice, Aresta
 
 class Grafo:
     def __init__(self):
