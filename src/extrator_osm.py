@@ -1,4 +1,5 @@
 import osmnx as ox
+import os
 import json
 
 def extrair_dados_malha_viaria(locais):
@@ -26,19 +27,13 @@ def extrair_dados_malha_viaria(locais):
             "nome": dados.get('name', 'Desconhecido')
         })
         
-    with open('nos.json', 'w', encoding='utf-8') as f:
+    os.makedirs('data', exist_ok=True)
+
+    # Salva diretamente na pasta correta
+    with open('data/nos.json', 'w', encoding='utf-8') as f:
         json.dump(nos, f, ensure_ascii=False, indent=4)
         
-    with open('arestas.json', 'w', encoding='utf-8') as f:
+    with open('data/arestas.json', 'w', encoding='utf-8') as f:
         json.dump(arestas, f, ensure_ascii=False, indent=4)
         
     print(f"Extração concluída! {len(nos)} nós e {len(arestas)} arestas salvos.")
-
-if __name__ == "__main__":
-    bairros_alvo = [
-        "Edson Queiroz, Fortaleza, Ceará, Brasil",
-        "Guararapes, Fortaleza, Ceará, Brasil",
-        "Cocó, Fortaleza, Ceará, Brasil"
-    ]
-    
-    extrair_dados_malha_viaria(bairros_alvo)

@@ -1,8 +1,8 @@
 import json
 import os
-from src.grafo import Grafo
-from src.modelos import Vertice
-from src.extrator_osm import extrair_dados_malha_viaria
+from grafo import Grafo
+from modelos import Vertice
+from extrator_osm import extrair_dados_malha_viaria
 
 class LeitorJSON:
     @staticmethod

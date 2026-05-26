@@ -1,6 +1,6 @@
 from typing import List, Tuple, Optional
-from src.grafo import Grafo
-from src.algoritmos import AnalisadorGrafo
+from grafo import Grafo
+from algoritmos import AnalisadorGrafo
 
 class GerenciadorAnalises:
     def __init__(self, grafo: Grafo):
@@ -17,14 +17,13 @@ class GerenciadorAnalises:
 
     def executar_analise_gargalos(self, top_n: int = 5) -> None:
         print(f"\n--- ANÁLISE 2: TOP {top_n} CRUZAMENTOS CRÍTICOS (GRAU) ---")
-        top_cruzamentos = AnalisadorGrafo.calcular_top_graus(self.grafo, top_n=top_n)
+        top_cruzamentos = AnalisadorGrafo.calcular_graus(self.grafo, top_n=top_n)
         for i, (id_v, grau) in enumerate(top_cruzamentos, 1):
             print(f"{i}º Lugar -> Cruzamento ID: {id_v} | Vias Conectadas: {grau}")
 
     def executar_analise_resiliencia(self, id_origem: int, id_destino: int) -> None:
         print("\n--- ANÁLISE 3: RESILIÊNCIA E SIMULAÇÃO DE INTERDIÇÃO ---")
         
-        # Rota ideal em condições normais
         caminho_original, dist_original = AnalisadorGrafo.dijkstra(self.grafo, id_origem, id_destino)
         
         if not caminho_original:
@@ -33,7 +32,6 @@ class GerenciadorAnalises:
             
         print(f"1. Rota Original estável: {dist_original:.2f} metros ({len(caminho_original)} cruzamentos).")
         
-        # Define a zona de interdição dinâmica (nó intermediário e adjacências)
         meio = len(caminho_original) // 2
         no_critico = caminho_original[meio]
         
@@ -43,7 +41,6 @@ class GerenciadorAnalises:
             
         print(f"2. Simulação: Evento crítico bloqueou o nó {no_critico} e arredores ({len(area_bloqueada)} cruzamentos fechados).")
         
-        # Recalcula a rota sob restrição de barreira em O(1)
         caminho_novo, dist_nova = AnalisadorGrafo.dijkstra(self.grafo, id_origem, id_destino, nos_ignorados=area_bloqueada)
         
         if caminho_novo:

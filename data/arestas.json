@@ -126,6 +126,463 @@
         "nome": "Rua Salvador Correia de Sá"
     },
     {
+        "origem": 616919222,
+        "destino": 2022455282,
+        "distancia": 87.56,
+        "mao_unica": false,
+        "nome": "Rua Doutor José Teles"
+    },
+    {
+        "origem": 616919222,
+        "destino": 12632968176,
+        "distancia": 119.17,
+        "mao_unica": false,
+        "nome": "Rua Jornalista César Magalhães"
+    },
+    {
+        "origem": 616919222,
+        "destino": 2022455235,
+        "distancia": 100.3,
+        "mao_unica": false,
+        "nome": "Rua Doutor José Teles"
+    },
+    {
+        "origem": 616919261,
+        "destino": 3811452384,
+        "distancia": 124.43,
+        "mao_unica": false,
+        "nome": "Rua Gontran Giffoni"
+    },
+    {
+        "origem": 616919261,
+        "destino": 2022455341,
+        "distancia": 236.86,
+        "mao_unica": false,
+        "nome": "Rua Gustavo Augusto Lima"
+    },
+    {
+        "origem": 616919267,
+        "destino": 616924027,
+        "distancia": 186.1,
+        "mao_unica": true,
+        "nome": "Rua Sâmia Carla"
+    },
+    {
+        "origem": 616919267,
+        "destino": 2556497077,
+        "distancia": 77.54,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 616919268,
+        "destino": 616924077,
+        "distancia": 180.73,
+        "mao_unica": true,
+        "nome": "Rua Jaime Pinheiro"
+    },
+    {
+        "origem": 616919268,
+        "destino": 5124614078,
+        "distancia": 39.68,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 616919269,
+        "destino": 7660832785,
+        "distancia": 6.51,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 616919271,
+        "destino": 2022455291,
+        "distancia": 11.34,
+        "mao_unica": true,
+        "nome": "Avenida Chanceler Edson Queiroz"
+    },
+    {
+        "origem": 616919271,
+        "destino": 5124614075,
+        "distancia": 117.12,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 616919276,
+        "destino": 616923971,
+        "distancia": 85.03,
+        "mao_unica": false,
+        "nome": "Rua Cláudio Manoel Dias Leite"
+    },
+    {
+        "origem": 616919276,
+        "destino": 2022455050,
+        "distancia": 12.12,
+        "mao_unica": false,
+        "nome": "Rua Cláudio Manoel Dias Leite"
+    },
+    {
+        "origem": 616919276,
+        "destino": 5124614077,
+        "distancia": 121.46,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 616919303,
+        "destino": 1907766601,
+        "distancia": 192.12,
+        "mao_unica": true,
+        "nome": "Rua Professor Jacinto Botelho"
+    },
+    {
+        "origem": 616919303,
+        "destino": 616919309,
+        "distancia": 209.4,
+        "mao_unica": false,
+        "nome": [
+            "Rua Antônio Holanda de Oliveira",
+            "Rua Professor Jacinto Botelho"
+        ]
+    },
+    {
+        "origem": 616919303,
+        "destino": 616919304,
+        "distancia": 80.45,
+        "mao_unica": false,
+        "nome": "Rua Jornalista César Magalhães"
+    },
+    {
+        "origem": 616919304,
+        "destino": 616919305,
+        "distancia": 77.9,
+        "mao_unica": false,
+        "nome": "Rua Jornalista César Magalhães"
+    },
+    {
+        "origem": 616919304,
+        "destino": 2022455224,
+        "distancia": 197.59,
+        "mao_unica": false,
+        "nome": "Rua Augusto Jaime Benevides"
+    },
+    {
+        "origem": 616919304,
+        "destino": 616919303,
+        "distancia": 80.45,
+        "mao_unica": false,
+        "nome": "Rua Jornalista César Magalhães"
+    },
+    {
+        "origem": 616919305,
+        "destino": 616919329,
+        "distancia": 80.37,
+        "mao_unica": false,
+        "nome": "Rua Jornalista César Magalhães"
+    },
+    {
+        "origem": 616919305,
+        "destino": 616919304,
+        "distancia": 77.9,
+        "mao_unica": false,
+        "nome": "Rua Jornalista César Magalhães"
+    },
+    {
+        "origem": 616919305,
+        "destino": 1907766718,
+        "distancia": 188.11,
+        "mao_unica": false,
+        "nome": "Rua Gustavo Augusto Lima"
+    },
+    {
+        "origem": 616919309,
+        "destino": 616919310,
+        "distancia": 77.81,
+        "mao_unica": false,
+        "nome": "Rua Antônio Holanda de Oliveira"
+    },
+    {
+        "origem": 616919309,
+        "destino": 616919303,
+        "distancia": 209.4,
+        "mao_unica": false,
+        "nome": [
+            "Rua Antônio Holanda de Oliveira",
+            "Rua Professor Jacinto Botelho"
+        ]
+    },
+    {
+        "origem": 616919309,
+        "destino": 680069392,
+        "distancia": 158.86,
+        "mao_unica": false,
+        "nome": "Rua Rabbi Elias Romcy"
+    },
+    {
+        "origem": 616919310,
+        "destino": 616919309,
+        "distancia": 77.81,
+        "mao_unica": false,
+        "nome": "Rua Antônio Holanda de Oliveira"
+    },
+    {
+        "origem": 616919310,
+        "destino": 680069431,
+        "distancia": 187.15,
+        "mao_unica": false,
+        "nome": "Rua José Otoch"
+    },
+    {
+        "origem": 616919310,
+        "destino": 616919311,
+        "distancia": 73.08,
+        "mao_unica": false,
+        "nome": "Rua Antônio Holanda de Oliveira"
+    },
+    {
+        "origem": 616919311,
+        "destino": 8501178798,
+        "distancia": 90.24,
+        "mao_unica": true,
+        "nome": "Avenida Rogaciano Leite"
+    },
+    {
+        "origem": 616919311,
+        "destino": 616919310,
+        "distancia": 73.08,
+        "mao_unica": false,
+        "nome": "Rua Antônio Holanda de Oliveira"
+    },
+    {
+        "origem": 616919329,
+        "destino": 616919305,
+        "distancia": 80.37,
+        "mao_unica": false,
+        "nome": "Rua Jornalista César Magalhães"
+    },
+    {
+        "origem": 616919329,
+        "destino": 1857388489,
+        "distancia": 188.76,
+        "mao_unica": false,
+        "nome": "Rua Coronel João Augusto Lima"
+    },
+    {
+        "origem": 616919329,
+        "destino": 12614920639,
+        "distancia": 145.07,
+        "mao_unica": false,
+        "nome": "Rua Coronel João Augusto Lima"
+    },
+    {
+        "origem": 616919329,
+        "destino": 2022454748,
+        "distancia": 184.0,
+        "mao_unica": false,
+        "nome": "Rua Jornalista César Magalhães"
+    },
+    {
+        "origem": 616923920,
+        "destino": 3874885734,
+        "distancia": 50.86,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 616923920,
+        "destino": 616923921,
+        "distancia": 166.99,
+        "mao_unica": false,
+        "nome": "Rua Professor Jacinto Botelho"
+    },
+    {
+        "origem": 616923920,
+        "destino": 616923923,
+        "distancia": 92.93,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 616923921,
+        "destino": 616923994,
+        "distancia": 93.06,
+        "mao_unica": false,
+        "nome": "Rua Cláudio Manoel Dias Leite"
+    },
+    {
+        "origem": 616923921,
+        "destino": 2022454764,
+        "distancia": 80.89,
+        "mao_unica": false,
+        "nome": "Rua Cláudio Manoel Dias Leite"
+    },
+    {
+        "origem": 616923921,
+        "destino": 616923920,
+        "distancia": 166.99,
+        "mao_unica": false,
+        "nome": "Rua Professor Jacinto Botelho"
+    },
+    {
+        "origem": 616923921,
+        "destino": 2022455254,
+        "distancia": 108.94,
+        "mao_unica": false,
+        "nome": "Rua Professor Jacinto Botelho"
+    },
+    {
+        "origem": 616923923,
+        "destino": 5357297987,
+        "distancia": 44.75,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 616923923,
+        "destino": 1857429748,
+        "distancia": 150.3,
+        "mao_unica": false,
+        "nome": "Rua José Alves Campos"
+    },
+    {
+        "origem": 616923923,
+        "destino": 616923920,
+        "distancia": 92.93,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 616923971,
+        "destino": 616919276,
+        "distancia": 85.03,
+        "mao_unica": false,
+        "nome": "Rua Cláudio Manoel Dias Leite"
+    },
+    {
+        "origem": 616923971,
+        "destino": 616923994,
+        "distancia": 92.57,
+        "mao_unica": false,
+        "nome": "Rua Cláudio Manoel Dias Leite"
+    },
+    {
+        "origem": 616923971,
+        "destino": 5124614055,
+        "distancia": 166.91,
+        "mao_unica": false,
+        "nome": "Rua Francisco Farias Filho"
+    },
+    {
+        "origem": 616923971,
+        "destino": 616923975,
+        "distancia": 166.19,
+        "mao_unica": false,
+        "nome": "Rua Francisco Farias Filho"
+    },
+    {
+        "origem": 616923975,
+        "destino": 3874885733,
+        "distancia": 25.9,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 616923975,
+        "destino": 3874885727,
+        "distancia": 38.66,
+        "mao_unica": false,
+        "nome": [
+            "Rua Justino Café Neto",
+            "Rua Paulo Roberto Pinheiro"
+        ]
+    },
+    {
+        "origem": 616923975,
+        "destino": 616923971,
+        "distancia": 166.19,
+        "mao_unica": false,
+        "nome": "Rua Francisco Farias Filho"
+    },
+    {
+        "origem": 616923983,
+        "destino": 1857429746,
+        "distancia": 9.02,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 616923983,
+        "destino": 3874885734,
+        "distancia": 41.3,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 616923983,
+        "destino": 616923994,
+        "distancia": 166.3,
+        "mao_unica": false,
+        "nome": "Rua Martinha Holanda"
+    },
+    {
+        "origem": 616923994,
+        "destino": 616923996,
+        "distancia": 169.01,
+        "mao_unica": false,
+        "nome": "Rua Martinha Holanda"
+    },
+    {
+        "origem": 616923994,
+        "destino": 616923983,
+        "distancia": 166.3,
+        "mao_unica": false,
+        "nome": "Rua Martinha Holanda"
+    },
+    {
+        "origem": 616923994,
+        "destino": 616923971,
+        "distancia": 92.57,
+        "mao_unica": false,
+        "nome": "Rua Cláudio Manoel Dias Leite"
+    },
+    {
+        "origem": 616923994,
+        "destino": 616923921,
+        "distancia": 93.06,
+        "mao_unica": false,
+        "nome": "Rua Cláudio Manoel Dias Leite"
+    },
+    {
+        "origem": 616923996,
+        "destino": 622414479,
+        "distancia": 30.42,
+        "mao_unica": false,
+        "nome": "Rua Martinha Holanda"
+    },
+    {
+        "origem": 616923996,
+        "destino": 616923994,
+        "distancia": 169.01,
+        "mao_unica": false,
+        "nome": "Rua Martinha Holanda"
+    },
+    {
+        "origem": 616923996,
+        "destino": 5124614055,
+        "distancia": 92.72,
+        "mao_unica": false,
+        "nome": "Rua Altair Farias"
+    },
+    {
+        "origem": 616923996,
+        "destino": 5124614056,
+        "distancia": 30.7,
+        "mao_unica": true,
+        "nome": "Rua Altair Farias"
+    },
+    {
         "origem": 616924016,
         "destino": 11246963411,
         "distancia": 7.69,
@@ -138,8 +595,8 @@
         "distancia": 201.61,
         "mao_unica": false,
         "nome": [
-            "Avenida Juarez Barroso",
-            "Avenida Doutor José Martins Rodrigues"
+            "Avenida Doutor José Martins Rodrigues",
+            "Avenida Juarez Barroso"
         ]
     },
     {
@@ -148,6 +605,13 @@
         "distancia": 113.4,
         "mao_unica": false,
         "nome": "Desconhecido"
+    },
+    {
+        "origem": 616924027,
+        "destino": 3874885724,
+        "distancia": 78.61,
+        "mao_unica": true,
+        "nome": "Rua Eliseu Uchôa Becco"
     },
     {
         "origem": 616924045,
@@ -297,6 +761,41 @@
         "nome": "Rua José Fernandes de Oliveira"
     },
     {
+        "origem": 616924062,
+        "destino": 616924063,
+        "distancia": 91.55,
+        "mao_unica": false,
+        "nome": "Rua Carlota Pinheiro"
+    },
+    {
+        "origem": 616924062,
+        "destino": 680069349,
+        "distancia": 94.51,
+        "mao_unica": false,
+        "nome": "Rua Carlota Pinheiro"
+    },
+    {
+        "origem": 616924062,
+        "destino": 616924093,
+        "distancia": 141.62,
+        "mao_unica": true,
+        "nome": "Rua Francisco Xerez"
+    },
+    {
+        "origem": 616924063,
+        "destino": 616924062,
+        "distancia": 91.55,
+        "mao_unica": false,
+        "nome": "Rua Carlota Pinheiro"
+    },
+    {
+        "origem": 616924063,
+        "destino": 12964918301,
+        "distancia": 54.22,
+        "mao_unica": true,
+        "nome": "Rua Eliseu Uchôa Becco"
+    },
+    {
         "origem": 616924074,
         "destino": 2440985184,
         "distancia": 51.37,
@@ -309,6 +808,41 @@
         "distancia": 7.54,
         "mao_unica": false,
         "nome": "Rua Professor Eládio Magalhães"
+    },
+    {
+        "origem": 616924077,
+        "destino": 3874885725,
+        "distancia": 76.05,
+        "mao_unica": true,
+        "nome": "Rua Eliseu Uchôa Becco"
+    },
+    {
+        "origem": 616924078,
+        "destino": 616924093,
+        "distancia": 91.93,
+        "mao_unica": false,
+        "nome": "Rua Manuel Firmino Sampaio"
+    },
+    {
+        "origem": 616924078,
+        "destino": 2518355162,
+        "distancia": 41.33,
+        "mao_unica": true,
+        "nome": "Rua Eliseu Uchôa Becco"
+    },
+    {
+        "origem": 616924084,
+        "destino": 1907768963,
+        "distancia": 86.11,
+        "mao_unica": true,
+        "nome": "Rua Firmino Rocha Aguiar"
+    },
+    {
+        "origem": 616924084,
+        "destino": 680069348,
+        "distancia": 133.46,
+        "mao_unica": false,
+        "nome": "Rua Ministro Eduardo Ellery Barreira"
     },
     {
         "origem": 616924086,
@@ -337,6 +871,48 @@
         "distancia": 292.2,
         "mao_unica": true,
         "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 616924093,
+        "destino": 616924078,
+        "distancia": 91.93,
+        "mao_unica": false,
+        "nome": "Rua Manuel Firmino Sampaio"
+    },
+    {
+        "origem": 616924093,
+        "destino": 680069357,
+        "distancia": 94.38,
+        "mao_unica": false,
+        "nome": "Rua Manuel Firmino Sampaio"
+    },
+    {
+        "origem": 616924093,
+        "destino": 2722597759,
+        "distancia": 136.15,
+        "mao_unica": true,
+        "nome": "Rua Francisco Xerez"
+    },
+    {
+        "origem": 616924112,
+        "destino": 680069357,
+        "distancia": 86.49,
+        "mao_unica": false,
+        "nome": "Rua Manuel Firmino Sampaio"
+    },
+    {
+        "origem": 616924112,
+        "destino": 680069348,
+        "distancia": 149.35,
+        "mao_unica": false,
+        "nome": "Rua Ministro Eduardo Ellery Barreira"
+    },
+    {
+        "origem": 616924112,
+        "destino": 8477337083,
+        "distancia": 67.65,
+        "mao_unica": false,
+        "nome": "Rua Valdetário Monteiro Chaves"
     },
     {
         "origem": 616927622,
@@ -463,6 +1039,13 @@
         "distancia": 45.1,
         "mao_unica": true,
         "nome": "Desconhecido"
+    },
+    {
+        "origem": 621999782,
+        "destino": 622032142,
+        "distancia": 114.86,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
     },
     {
         "origem": 621999831,
@@ -624,8 +1207,8 @@
         "distancia": 224.75,
         "mao_unica": false,
         "nome": [
-            "Avenida Presidente Artur Bernardes",
-            "Travessa Cantoneide"
+            "Travessa Cantoneide",
+            "Avenida Presidente Artur Bernardes"
         ]
     },
     {
@@ -900,8 +1483,8 @@
         "distancia": 224.75,
         "mao_unica": false,
         "nome": [
-            "Avenida Presidente Artur Bernardes",
-            "Travessa Cantoneide"
+            "Travessa Cantoneide",
+            "Avenida Presidente Artur Bernardes"
         ]
     },
     {
@@ -1363,6 +1946,83 @@
         "nome": "Rua Professor Solon Farias"
     },
     {
+        "origem": 622032141,
+        "destino": 622032143,
+        "distancia": 78.83,
+        "mao_unica": false,
+        "nome": "Rua Ministro Eduardo Ellery Barreira"
+    },
+    {
+        "origem": 622032141,
+        "destino": 622032142,
+        "distancia": 85.91,
+        "mao_unica": false,
+        "nome": "Rua Professor José Maria Bandeira Barbosa"
+    },
+    {
+        "origem": 622032141,
+        "destino": 2431739610,
+        "distancia": 115.58,
+        "mao_unica": false,
+        "nome": "Rua Ministro Eduardo Ellery Barreira"
+    },
+    {
+        "origem": 622032142,
+        "destino": 622032141,
+        "distancia": 85.91,
+        "mao_unica": false,
+        "nome": "Rua Professor José Maria Bandeira Barbosa"
+    },
+    {
+        "origem": 622032142,
+        "destino": 622032144,
+        "distancia": 77.21,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 622032143,
+        "destino": 2431739510,
+        "distancia": 89.42,
+        "mao_unica": false,
+        "nome": "Rua Ministro Eduardo Ellery Barreira"
+    },
+    {
+        "origem": 622032143,
+        "destino": 622032141,
+        "distancia": 78.83,
+        "mao_unica": false,
+        "nome": "Rua Ministro Eduardo Ellery Barreira"
+    },
+    {
+        "origem": 622032143,
+        "destino": 622032144,
+        "distancia": 90.93,
+        "mao_unica": false,
+        "nome": "Rua Romeu Aldguery"
+    },
+    {
+        "origem": 622032143,
+        "destino": 2268397100,
+        "distancia": 104.87,
+        "mao_unica": false,
+        "nome": "Rua Romeu Aldguery"
+    },
+    {
+        "origem": 622032144,
+        "destino": 622032143,
+        "distancia": 90.93,
+        "mao_unica": false,
+        "nome": "Rua Romeu Aldguery"
+    },
+    {
+        "origem": 622032144,
+        "destino": 1781280599,
+        "distancia": 91.17,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
         "origem": 622050946,
         "destino": 1781280624,
         "distancia": 92.68,
@@ -1734,6 +2394,195 @@
         "nome": "Rua Hill de Moraes"
     },
     {
+        "origem": 622414459,
+        "destino": 680069348,
+        "distancia": 79.55,
+        "mao_unica": false,
+        "nome": "Rua Carlota Pinheiro"
+    },
+    {
+        "origem": 622414459,
+        "destino": 5364433113,
+        "distancia": 28.29,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 622414478,
+        "destino": 622414479,
+        "distancia": 123.11,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 622414478,
+        "destino": 5357297989,
+        "distancia": 11.4,
+        "mao_unica": false,
+        "nome": "Rua Francisco Farias Filho"
+    },
+    {
+        "origem": 622414478,
+        "destino": 5124614055,
+        "distancia": 114.78,
+        "mao_unica": false,
+        "nome": "Rua Francisco Farias Filho"
+    },
+    {
+        "origem": 622414479,
+        "destino": 616923996,
+        "distancia": 30.42,
+        "mao_unica": false,
+        "nome": "Rua Martinha Holanda"
+    },
+    {
+        "origem": 622414479,
+        "destino": 5124614056,
+        "distancia": 43.54,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 680069348,
+        "destino": 680069349,
+        "distancia": 86.59,
+        "mao_unica": false,
+        "nome": "Rua Carlota Pinheiro"
+    },
+    {
+        "origem": 680069348,
+        "destino": 622414459,
+        "distancia": 79.55,
+        "mao_unica": false,
+        "nome": "Rua Carlota Pinheiro"
+    },
+    {
+        "origem": 680069348,
+        "destino": 616924112,
+        "distancia": 149.35,
+        "mao_unica": false,
+        "nome": "Rua Ministro Eduardo Ellery Barreira"
+    },
+    {
+        "origem": 680069348,
+        "destino": 616924084,
+        "distancia": 133.46,
+        "mao_unica": false,
+        "nome": "Rua Ministro Eduardo Ellery Barreira"
+    },
+    {
+        "origem": 680069349,
+        "destino": 616924062,
+        "distancia": 94.51,
+        "mao_unica": false,
+        "nome": "Rua Carlota Pinheiro"
+    },
+    {
+        "origem": 680069349,
+        "destino": 680069348,
+        "distancia": 86.59,
+        "mao_unica": false,
+        "nome": "Rua Carlota Pinheiro"
+    },
+    {
+        "origem": 680069349,
+        "destino": 680069357,
+        "distancia": 142.42,
+        "mao_unica": false,
+        "nome": "Rua Doutor Márlio Fernandes"
+    },
+    {
+        "origem": 680069349,
+        "destino": 1907768963,
+        "distancia": 135.01,
+        "mao_unica": true,
+        "nome": "Rua Doutor Márlio Fernandes"
+    },
+    {
+        "origem": 680069357,
+        "destino": 616924093,
+        "distancia": 94.38,
+        "mao_unica": false,
+        "nome": "Rua Manuel Firmino Sampaio"
+    },
+    {
+        "origem": 680069357,
+        "destino": 680069349,
+        "distancia": 142.42,
+        "mao_unica": false,
+        "nome": "Rua Doutor Márlio Fernandes"
+    },
+    {
+        "origem": 680069357,
+        "destino": 616924112,
+        "distancia": 86.49,
+        "mao_unica": false,
+        "nome": "Rua Manuel Firmino Sampaio"
+    },
+    {
+        "origem": 680069357,
+        "destino": 2722597758,
+        "distancia": 139.72,
+        "mao_unica": false,
+        "nome": "Rua Doutor Márlio Fernandes"
+    },
+    {
+        "origem": 680069379,
+        "destino": 680069431,
+        "distancia": 82.07,
+        "mao_unica": true,
+        "nome": "Rua Jornalista César Magalhães"
+    },
+    {
+        "origem": 680069379,
+        "destino": 1857399902,
+        "distancia": 193.57,
+        "mao_unica": true,
+        "nome": "Avenida Rogaciano Leite"
+    },
+    {
+        "origem": 680069392,
+        "destino": 616919303,
+        "distancia": 82.1,
+        "mao_unica": true,
+        "nome": "Rua Jornalista César Magalhães"
+    },
+    {
+        "origem": 680069392,
+        "destino": 1907760013,
+        "distancia": 192.5,
+        "mao_unica": false,
+        "nome": "Rua Rabbi Elias Romcy"
+    },
+    {
+        "origem": 680069392,
+        "destino": 616919309,
+        "distancia": 158.86,
+        "mao_unica": false,
+        "nome": "Rua Rabbi Elias Romcy"
+    },
+    {
+        "origem": 680069431,
+        "destino": 680069392,
+        "distancia": 83.36,
+        "mao_unica": true,
+        "nome": "Rua Jornalista César Magalhães"
+    },
+    {
+        "origem": 680069431,
+        "destino": 1857388487,
+        "distancia": 192.09,
+        "mao_unica": false,
+        "nome": "Rua José Otoch"
+    },
+    {
+        "origem": 680069431,
+        "destino": 616919310,
+        "distancia": 187.15,
+        "mao_unica": false,
+        "nome": "Rua José Otoch"
+    },
+    {
         "origem": 1621106208,
         "destino": 616924086,
         "distancia": 189.86,
@@ -1816,8 +2665,8 @@
         "distancia": 154.0,
         "mao_unica": false,
         "nome": [
-            "Rua Brigadeiro Haroldo Veloso",
-            "Rua Clarindo Pereira"
+            "Rua Clarindo Pereira",
+            "Rua Brigadeiro Haroldo Veloso"
         ]
     },
     {
@@ -3079,8 +3928,8 @@
         "distancia": 154.0,
         "mao_unica": false,
         "nome": [
-            "Rua Brigadeiro Haroldo Veloso",
-            "Rua Clarindo Pereira"
+            "Rua Clarindo Pereira",
+            "Rua Brigadeiro Haroldo Veloso"
         ]
     },
     {
@@ -3327,8 +4176,8 @@
         "distancia": 201.61,
         "mao_unica": false,
         "nome": [
-            "Avenida Juarez Barroso",
-            "Avenida Doutor José Martins Rodrigues"
+            "Avenida Doutor José Martins Rodrigues",
+            "Avenida Juarez Barroso"
         ]
     },
     {
@@ -3337,6 +4186,20 @@
         "distancia": 93.91,
         "mao_unica": false,
         "nome": "Rua Estevam de Miranda"
+    },
+    {
+        "origem": 1781280599,
+        "destino": 13462491788,
+        "distancia": 63.22,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 1781280599,
+        "destino": 2431739510,
+        "distancia": 97.4,
+        "mao_unica": false,
+        "nome": "Rua Engenheiro Mardo Falcão"
     },
     {
         "origem": 1781280610,
@@ -3358,6 +4221,13 @@
         "distancia": 91.69,
         "mao_unica": false,
         "nome": "Avenida Juarez Barroso"
+    },
+    {
+        "origem": 1781280618,
+        "destino": 5522884708,
+        "distancia": 537.54,
+        "mao_unica": true,
+        "nome": "Avenida Sebastião de Abreu"
     },
     {
         "origem": 1781280620,
@@ -3465,11 +4335,116 @@
         "nome": "Avenida Washington Soares"
     },
     {
+        "origem": 1857388462,
+        "destino": 2022454731,
+        "distancia": 135.52,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 1857388480,
+        "destino": 616924062,
+        "distancia": 135.55,
+        "mao_unica": true,
+        "nome": "Rua Francisco Xerez"
+    },
+    {
+        "origem": 1857388480,
+        "destino": 1907769090,
+        "distancia": 92.94,
+        "mao_unica": true,
+        "nome": "Rua Firmino Rocha Aguiar"
+    },
+    {
+        "origem": 1857388487,
+        "destino": 2022455152,
+        "distancia": 48.93,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 1857388487,
+        "destino": 680069431,
+        "distancia": 192.09,
+        "mao_unica": false,
+        "nome": "Rua José Otoch"
+    },
+    {
+        "origem": 1857388489,
+        "destino": 5357297989,
+        "distancia": 34.79,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 1857388489,
+        "destino": 616919329,
+        "distancia": 188.76,
+        "mao_unica": false,
+        "nome": "Rua Coronel João Augusto Lima"
+    },
+    {
+        "origem": 1857388491,
+        "destino": 616919304,
+        "distancia": 189.17,
+        "mao_unica": true,
+        "nome": "Rua Augusto Jaime Benevides"
+    },
+    {
+        "origem": 1857388491,
+        "destino": 1907766718,
+        "distancia": 76.14,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
         "origem": 1857393855,
         "destino": 7189867615,
         "distancia": 186.29,
         "mao_unica": true,
         "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 1857399902,
+        "destino": 2268397084,
+        "distancia": 9.98,
+        "mao_unica": true,
+        "nome": "Avenida Rogaciano Leite"
+    },
+    {
+        "origem": 1857399902,
+        "destino": 1857388487,
+        "distancia": 87.32,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 1857429746,
+        "destino": 5435417896,
+        "distancia": 9.25,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 1857429746,
+        "destino": 616923983,
+        "distancia": 9.02,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 1857429748,
+        "destino": 616923923,
+        "distancia": 150.3,
+        "mao_unica": false,
+        "nome": "Rua José Alves Campos"
+    },
+    {
+        "origem": 1857429748,
+        "destino": 2268397084,
+        "distancia": 121.02,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
     },
     {
         "origem": 1867354674,
@@ -3514,14 +4489,462 @@
         "nome": "Desconhecido"
     },
     {
+        "origem": 1907760013,
+        "destino": 1907766601,
+        "distancia": 85.3,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 1907760013,
+        "destino": 680069392,
+        "distancia": 192.5,
+        "mao_unica": false,
+        "nome": "Rua Rabbi Elias Romcy"
+    },
+    {
+        "origem": 1907766601,
+        "destino": 7189867640,
+        "distancia": 23.02,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 1907766718,
+        "destino": 1857388489,
+        "distancia": 82.06,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 1907766718,
+        "destino": 616919305,
+        "distancia": 188.11,
+        "mao_unica": false,
+        "nome": "Rua Gustavo Augusto Lima"
+    },
+    {
+        "origem": 1907768963,
+        "destino": 2431739665,
+        "distancia": 43.54,
+        "mao_unica": true,
+        "nome": "Rua Firmino Rocha Aguiar"
+    },
+    {
+        "origem": 1907769090,
+        "destino": 2022455160,
+        "distancia": 10.87,
+        "mao_unica": true,
+        "nome": "Rua Eliseu Uchôa Becco"
+    },
+    {
+        "origem": 1907769090,
+        "destino": 616919269,
+        "distancia": 167.89,
+        "mao_unica": true,
+        "nome": "Rua Firmino Rocha Aguiar"
+    },
+    {
+        "origem": 1907783951,
+        "destino": 616924077,
+        "distancia": 20.76,
+        "mao_unica": true,
+        "nome": "Rua Eliseu Uchôa Becco"
+    },
+    {
+        "origem": 1953668750,
+        "destino": 1857388462,
+        "distancia": 86.29,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 1953668750,
+        "destino": 5124614082,
+        "distancia": 43.48,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 2022454731,
+        "destino": 4324529577,
+        "distancia": 75.51,
+        "mao_unica": true,
+        "nome": "Rua Romeu Aldguery"
+    },
+    {
+        "origem": 2022454731,
+        "destino": 5124614076,
+        "distancia": 83.02,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 2022454748,
+        "destino": 4324529577,
+        "distancia": 81.02,
+        "mao_unica": false,
+        "nome": "Rua Romeu Aldguery"
+    },
+    {
+        "origem": 2022454748,
+        "destino": 616919329,
+        "distancia": 184.0,
+        "mao_unica": false,
+        "nome": "Rua Jornalista César Magalhães"
+    },
+    {
+        "origem": 2022454748,
+        "destino": 12632968177,
+        "distancia": 192.55,
+        "mao_unica": false,
+        "nome": "Rua Jornalista César Magalhães"
+    },
+    {
+        "origem": 2022454764,
+        "destino": 616923921,
+        "distancia": 80.89,
+        "mao_unica": false,
+        "nome": "Rua Cláudio Manoel Dias Leite"
+    },
+    {
+        "origem": 2022454764,
+        "destino": 2022455152,
+        "distancia": 11.48,
+        "mao_unica": false,
+        "nome": "Rua Cláudio Manoel Dias Leite"
+    },
+    {
+        "origem": 2022454764,
+        "destino": 1857429748,
+        "distancia": 21.38,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 2022454777,
+        "destino": 12632968176,
+        "distancia": 9.91,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 2022454788,
+        "destino": 2556497077,
+        "distancia": 12.32,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 2022454788,
+        "destino": 2022455314,
+        "distancia": 93.08,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 2022454874,
+        "destino": 2022455028,
+        "distancia": 12.83,
+        "mao_unica": false,
+        "nome": "Rua Coronel Elder Benevides"
+    },
+    {
+        "origem": 2022454874,
+        "destino": 5124614079,
+        "distancia": 39.28,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 2022454964,
+        "destino": 5124614080,
+        "distancia": 8.34,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 2022455020,
+        "destino": 2022455282,
+        "distancia": 87.3,
+        "mao_unica": false,
+        "nome": "Rua Doutor José Teles"
+    },
+    {
+        "origem": 2022455028,
+        "destino": 2022454874,
+        "distancia": 12.83,
+        "mao_unica": false,
+        "nome": "Rua Coronel Elder Benevides"
+    },
+    {
+        "origem": 2022455028,
+        "destino": 616919267,
+        "distancia": 80.0,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 2022455050,
+        "destino": 616919276,
+        "distancia": 12.12,
+        "mao_unica": false,
+        "nome": "Rua Cláudio Manoel Dias Leite"
+    },
+    {
+        "origem": 2022455050,
+        "destino": 616919268,
+        "distancia": 36.82,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 2022455109,
+        "destino": 6941759421,
+        "distancia": 22.24,
+        "mao_unica": false,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 2022455109,
+        "destino": 2022455235,
+        "distancia": 182.32,
+        "mao_unica": false,
+        "nome": "Rua Doutor José Teles"
+    },
+    {
+        "origem": 2022455152,
+        "destino": 2022454764,
+        "distancia": 11.48,
+        "mao_unica": false,
+        "nome": "Rua Cláudio Manoel Dias Leite"
+    },
+    {
+        "origem": 2022455152,
+        "destino": 1907760013,
+        "distancia": 34.04,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 2022455160,
+        "destino": 2022455278,
+        "distancia": 201.1,
+        "mao_unica": true,
+        "nome": "Rua Eliseu Uchôa Becco"
+    },
+    {
+        "origem": 2022455160,
+        "destino": 4324529574,
+        "distancia": 78.5,
+        "mao_unica": true,
+        "nome": "Rua Firmino Rocha Aguiar"
+    },
+    {
+        "origem": 2022455180,
+        "destino": 616919305,
+        "distancia": 257.37,
+        "mao_unica": true,
+        "nome": "Rua Gustavo Augusto Lima"
+    },
+    {
+        "origem": 2022455180,
+        "destino": 5357298001,
+        "distancia": 188.85,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 2022455223,
+        "destino": 2022454731,
+        "distancia": 12.2,
+        "mao_unica": true,
+        "nome": "Rua Romeu Aldguery"
+    },
+    {
+        "origem": 2022455223,
+        "destino": 2022454964,
+        "distancia": 195.97,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 2022455224,
+        "destino": 616919304,
+        "distancia": 197.59,
+        "mao_unica": false,
+        "nome": "Rua Augusto Jaime Benevides"
+    },
+    {
+        "origem": 2022455229,
+        "destino": 7660832386,
+        "distancia": 4.52,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 2022455235,
+        "destino": 2022455109,
+        "distancia": 182.32,
+        "mao_unica": false,
+        "nome": "Rua Doutor José Teles"
+    },
+    {
+        "origem": 2022455235,
+        "destino": 616919222,
+        "distancia": 100.3,
+        "mao_unica": false,
+        "nome": "Rua Doutor José Teles"
+    },
+    {
+        "origem": 2022455254,
+        "destino": 7189867640,
+        "distancia": 10.57,
+        "mao_unica": false,
+        "nome": "Rua Professor Jacinto Botelho"
+    },
+    {
+        "origem": 2022455254,
+        "destino": 2022454764,
+        "distancia": 135.09,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 2022455254,
+        "destino": 616923921,
+        "distancia": 108.94,
+        "mao_unica": false,
+        "nome": "Rua Professor Jacinto Botelho"
+    },
+    {
+        "origem": 2022455275,
+        "destino": 7841016888,
+        "distancia": 99.59,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 2022455278,
+        "destino": 4324529576,
+        "distancia": 75.59,
+        "mao_unica": false,
+        "nome": "Rua Romeu Aldguery"
+    },
+    {
+        "origem": 2022455278,
+        "destino": 2022455223,
+        "distancia": 172.95,
+        "mao_unica": true,
+        "nome": "Rua Romeu Aldguery"
+    },
+    {
+        "origem": 2022455282,
+        "destino": 616919222,
+        "distancia": 87.56,
+        "mao_unica": false,
+        "nome": "Rua Doutor José Teles"
+    },
+    {
+        "origem": 2022455282,
+        "destino": 2022455020,
+        "distancia": 87.3,
+        "mao_unica": false,
+        "nome": "Rua Doutor José Teles"
+    },
+    {
+        "origem": 2022455291,
+        "destino": 2022455275,
+        "distancia": 11.2,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 2022455291,
+        "destino": 4324529579,
+        "distancia": 78.0,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 2022455298,
+        "destino": 2022454964,
+        "distancia": 12.23,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 2022455298,
+        "destino": 1857388462,
+        "distancia": 61.19,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 2022455314,
+        "destino": 3874885727,
+        "distancia": 44.75,
+        "mao_unica": true,
+        "nome": "Rua Sâmia Carla"
+    },
+    {
+        "origem": 2022455314,
+        "destino": 2022454874,
+        "distancia": 68.66,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 2022455341,
+        "destino": 2851973249,
+        "distancia": 79.22,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 2022455341,
+        "destino": 616919261,
+        "distancia": 236.86,
+        "mao_unica": false,
+        "nome": "Rua Gustavo Augusto Lima"
+    },
+    {
         "origem": 2100497784,
         "destino": 3338846623,
         "distancia": 615.41,
         "mao_unica": true,
         "nome": [
-            "Avenida Engenheiro Santana Júnior",
-            "Avenida Washington Soares"
+            "Avenida Washington Soares",
+            "Avenida Engenheiro Santana Júnior"
         ]
+    },
+    {
+        "origem": 2268397084,
+        "destino": 5357297987,
+        "distancia": 59.03,
+        "mao_unica": true,
+        "nome": "Avenida Rogaciano Leite"
+    },
+    {
+        "origem": 2268397100,
+        "destino": 622032143,
+        "distancia": 104.87,
+        "mao_unica": false,
+        "nome": "Rua Romeu Aldguery"
+    },
+    {
+        "origem": 2268397100,
+        "destino": 12614688551,
+        "distancia": 34.33,
+        "mao_unica": false,
+        "nome": "Rua Romeu Aldguery"
+    },
+    {
+        "origem": 2268397100,
+        "destino": 2518362314,
+        "distancia": 201.49,
+        "mao_unica": true,
+        "nome": "Rua Alberto Feitosa Lima"
     },
     {
         "origem": 2365018207,
@@ -3559,6 +4982,48 @@
         "nome": "Avenida Sebastião de Abreu"
     },
     {
+        "origem": 2413974617,
+        "destino": 616919311,
+        "distancia": 191.31,
+        "mao_unica": true,
+        "nome": "Avenida Rogaciano Leite"
+    },
+    {
+        "origem": 2431739510,
+        "destino": 2431739568,
+        "distancia": 107.0,
+        "mao_unica": false,
+        "nome": "Rua Ministro Eduardo Ellery Barreira"
+    },
+    {
+        "origem": 2431739510,
+        "destino": 622032143,
+        "distancia": 89.42,
+        "mao_unica": false,
+        "nome": "Rua Ministro Eduardo Ellery Barreira"
+    },
+    {
+        "origem": 2431739510,
+        "destino": 1781280599,
+        "distancia": 97.4,
+        "mao_unica": false,
+        "nome": "Rua Engenheiro Mardo Falcão"
+    },
+    {
+        "origem": 2431739514,
+        "destino": 2268397100,
+        "distancia": 196.41,
+        "mao_unica": true,
+        "nome": "Rua Alberto Feitosa Lima"
+    },
+    {
+        "origem": 2431739514,
+        "destino": 2431739610,
+        "distancia": 116.22,
+        "mao_unica": true,
+        "nome": "Rua Firmino Rocha Aguiar"
+    },
+    {
         "origem": 2431739517,
         "destino": 2431739609,
         "distancia": 292.15,
@@ -3571,6 +5036,34 @@
         "distancia": 36.74,
         "mao_unica": true,
         "nome": "Desconhecido"
+    },
+    {
+        "origem": 2431739527,
+        "destino": 621999782,
+        "distancia": 33.97,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 2431739527,
+        "destino": 616924084,
+        "distancia": 79.76,
+        "mao_unica": true,
+        "nome": "Rua Firmino Rocha Aguiar"
+    },
+    {
+        "origem": 2431739537,
+        "destino": 3338846594,
+        "distancia": 51.15,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 2431739537,
+        "destino": 616923920,
+        "distancia": 186.11,
+        "mao_unica": true,
+        "nome": "Rua Professor Jacinto Botelho"
     },
     {
         "origem": 2431739555,
@@ -3592,6 +5085,34 @@
         "distancia": 6.48,
         "mao_unica": true,
         "nome": "Avenida Sebastião de Abreu"
+    },
+    {
+        "origem": 2431739568,
+        "destino": 2431739510,
+        "distancia": 107.0,
+        "mao_unica": false,
+        "nome": "Rua Ministro Eduardo Ellery Barreira"
+    },
+    {
+        "origem": 2431739568,
+        "destino": 2518362314,
+        "distancia": 90.71,
+        "mao_unica": true,
+        "nome": "Avenida Chanceler Edson Queiroz"
+    },
+    {
+        "origem": 2431739576,
+        "destino": 6941759421,
+        "distancia": 150.67,
+        "mao_unica": false,
+        "nome": "Rua Eliseu Becco Filho"
+    },
+    {
+        "origem": 2431739576,
+        "destino": 2022454777,
+        "distancia": 201.1,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
     },
     {
         "origem": 2431739579,
@@ -3622,6 +5143,20 @@
         "nome": "Desconhecido"
     },
     {
+        "origem": 2431739610,
+        "destino": 622032141,
+        "distancia": 115.58,
+        "mao_unica": false,
+        "nome": "Rua Ministro Eduardo Ellery Barreira"
+    },
+    {
+        "origem": 2431739610,
+        "destino": 621999782,
+        "distancia": 79.55,
+        "mao_unica": true,
+        "nome": "Rua Firmino Rocha Aguiar"
+    },
+    {
         "origem": 2431739617,
         "destino": 621999836,
         "distancia": 139.95,
@@ -3639,6 +5174,34 @@
         "origem": 2431739636,
         "destino": 1857393855,
         "distancia": 263.99,
+        "mao_unica": true,
+        "nome": "Rua Firmino Rocha Aguiar"
+    },
+    {
+        "origem": 2431739636,
+        "destino": 2431739665,
+        "distancia": 488.45,
+        "mao_unica": true,
+        "nome": "Túnel Olga Barroso"
+    },
+    {
+        "origem": 2431739664,
+        "destino": 1857388480,
+        "distancia": 10.64,
+        "mao_unica": true,
+        "nome": "Rua Francisco Xerez"
+    },
+    {
+        "origem": 2431739664,
+        "destino": 2431739514,
+        "distancia": 62.9,
+        "mao_unica": true,
+        "nome": "Rua Firmino Rocha Aguiar"
+    },
+    {
+        "origem": 2431739665,
+        "destino": 1857388480,
+        "distancia": 49.55,
         "mao_unica": true,
         "nome": "Rua Firmino Rocha Aguiar"
     },
@@ -4346,6 +5909,125 @@
         "nome": "Avenida Sebastião de Abreu"
     },
     {
+        "origem": 2518355162,
+        "destino": 2518355164,
+        "distancia": 78.51,
+        "mao_unica": true,
+        "nome": "Rua Eliseu Uchôa Becco"
+    },
+    {
+        "origem": 2518355162,
+        "destino": 2518355166,
+        "distancia": 176.87,
+        "mao_unica": false,
+        "nome": "Rua Doutor Adjemir Parahyba"
+    },
+    {
+        "origem": 2518355164,
+        "destino": 2518355178,
+        "distancia": 174.94,
+        "mao_unica": false,
+        "nome": "Rua Emílio Falcão"
+    },
+    {
+        "origem": 2518355164,
+        "destino": 616924063,
+        "distancia": 22.97,
+        "mao_unica": true,
+        "nome": "Rua Eliseu Uchôa Becco"
+    },
+    {
+        "origem": 2518355166,
+        "destino": 5124614077,
+        "distancia": 13.05,
+        "mao_unica": false,
+        "nome": "Rua Doutor Adjemir Parahyba"
+    },
+    {
+        "origem": 2518355166,
+        "destino": 3874885726,
+        "distancia": 78.66,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 2518355166,
+        "destino": 2518355162,
+        "distancia": 176.87,
+        "mao_unica": false,
+        "nome": "Rua Doutor Adjemir Parahyba"
+    },
+    {
+        "origem": 2518355178,
+        "destino": 2518355164,
+        "distancia": 174.94,
+        "mao_unica": false,
+        "nome": "Rua Emílio Falcão"
+    },
+    {
+        "origem": 2518355178,
+        "destino": 2518355166,
+        "distancia": 78.19,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 2518362314,
+        "destino": 4324529578,
+        "distancia": 77.47,
+        "mao_unica": true,
+        "nome": "Avenida Chanceler Edson Queiroz"
+    },
+    {
+        "origem": 2556497074,
+        "destino": 2556497099,
+        "distancia": 98.91,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 2556497077,
+        "destino": 2100497784,
+        "distancia": 12.32,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 2556497077,
+        "destino": 2556497096,
+        "distancia": 197.56,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 2556497096,
+        "destino": 616924027,
+        "distancia": 20.72,
+        "mao_unica": true,
+        "nome": "Rua Eliseu Uchôa Becco"
+    },
+    {
+        "origem": 2556497096,
+        "destino": 2556497074,
+        "distancia": 95.63,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 2556497099,
+        "destino": 2722597758,
+        "distancia": 90.72,
+        "mao_unica": false,
+        "nome": "Rua Doutor Márlio Fernandes"
+    },
+    {
+        "origem": 2556497099,
+        "destino": 5253376023,
+        "distancia": 300.32,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
         "origem": 2722597752,
         "destino": 11246963415,
         "distancia": 113.43,
@@ -4400,6 +6082,48 @@
         "distancia": 51.69,
         "mao_unica": false,
         "nome": "Rua Aluizio de Madeiros"
+    },
+    {
+        "origem": 2722597758,
+        "destino": 2722597759,
+        "distancia": 91.56,
+        "mao_unica": true,
+        "nome": "Rua Olímpio Galdino de Sousa"
+    },
+    {
+        "origem": 2722597758,
+        "destino": 2556497099,
+        "distancia": 90.72,
+        "mao_unica": false,
+        "nome": "Rua Doutor Márlio Fernandes"
+    },
+    {
+        "origem": 2722597758,
+        "destino": 5335276129,
+        "distancia": 45.4,
+        "mao_unica": false,
+        "nome": "Rua Olímpio Galdino de Sousa"
+    },
+    {
+        "origem": 2722597758,
+        "destino": 680069357,
+        "distancia": 139.72,
+        "mao_unica": false,
+        "nome": "Rua Doutor Márlio Fernandes"
+    },
+    {
+        "origem": 2722597759,
+        "destino": 1907783951,
+        "distancia": 92.9,
+        "mao_unica": true,
+        "nome": "Rua Olímpio Galdino de Sousa"
+    },
+    {
+        "origem": 2722597759,
+        "destino": 2556497074,
+        "distancia": 127.03,
+        "mao_unica": true,
+        "nome": "Rua Francisco Xerez"
     },
     {
         "origem": 2756648388,
@@ -4528,6 +6252,62 @@
         "nome": "Rua Maria Guerra de Medeiros"
     },
     {
+        "origem": 2819389684,
+        "destino": 2413974617,
+        "distancia": 15.22,
+        "mao_unica": true,
+        "nome": "Avenida Rogaciano Leite"
+    },
+    {
+        "origem": 2819389684,
+        "destino": 5357298008,
+        "distancia": 86.32,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 2819389685,
+        "destino": 5357298003,
+        "distancia": 27.07,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 2819389685,
+        "destino": 5357298006,
+        "distancia": 219.02,
+        "mao_unica": false,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 2819389687,
+        "destino": 5357297995,
+        "distancia": 34.44,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 2819389687,
+        "destino": 5357297993,
+        "distancia": 14.62,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 2819389692,
+        "destino": 12614920639,
+        "distancia": 105.75,
+        "mao_unica": false,
+        "nome": "Rua Coronel João Augusto Lima"
+    },
+    {
+        "origem": 2819389692,
+        "destino": 2022455180,
+        "distancia": 79.27,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
         "origem": 2829828404,
         "destino": 2829828405,
         "distancia": 36.26,
@@ -4582,6 +6362,13 @@
         "distancia": 84.52,
         "mao_unica": true,
         "nome": "Rua Hermenegildo de Sá Cavalcante"
+    },
+    {
+        "origem": 2851973249,
+        "destino": 5357297997,
+        "distancia": 41.47,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
     },
     {
         "origem": 2882031801,
@@ -5914,6 +7701,44 @@
         "nome": "Avenida Edilson Brasil Soares"
     },
     {
+        "origem": 3338846163,
+        "destino": 2431739537,
+        "distancia": 20.96,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 3338846594,
+        "destino": 3874885736,
+        "distancia": 49.36,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 3338846594,
+        "destino": 3874885734,
+        "distancia": 170.83,
+        "mao_unica": false,
+        "nome": "Rua Albert Sabin"
+    },
+    {
+        "origem": 3338846621,
+        "destino": 3338846623,
+        "distancia": 421.97,
+        "mao_unica": true,
+        "nome": [
+            "Avenida Rogaciano Leite",
+            "Avenida Engenheiro Santana Júnior"
+        ]
+    },
+    {
+        "origem": 3338846621,
+        "destino": 3338846163,
+        "distancia": 194.22,
+        "mao_unica": true,
+        "nome": "Avenida Rogaciano Leite"
+    },
+    {
         "origem": 3363879558,
         "destino": 2431739517,
         "distancia": 38.24,
@@ -6731,8 +8556,8 @@
         "distancia": 341.93,
         "mao_unica": false,
         "nome": [
-            "Rua Martins de Castro",
-            "Estrada de Salinas"
+            "Estrada de Salinas",
+            "Rua Martins de Castro"
         ]
     },
     {
@@ -6849,6 +8674,177 @@
         "distancia": 11.34,
         "mao_unica": false,
         "nome": "Rua C"
+    },
+    {
+        "origem": 3811452384,
+        "destino": 5357298004,
+        "distancia": 31.51,
+        "mao_unica": false,
+        "nome": "Rua Gontran Giffoni"
+    },
+    {
+        "origem": 3811452384,
+        "destino": 616919261,
+        "distancia": 124.43,
+        "mao_unica": false,
+        "nome": "Rua Gontran Giffoni"
+    },
+    {
+        "origem": 3874885724,
+        "destino": 2022455028,
+        "distancia": 182.84,
+        "mao_unica": true,
+        "nome": "Rua Coronel Elder Benevides"
+    },
+    {
+        "origem": 3874885724,
+        "destino": 1907783951,
+        "distancia": 60.16,
+        "mao_unica": true,
+        "nome": "Rua Eliseu Uchôa Becco"
+    },
+    {
+        "origem": 3874885725,
+        "destino": 3874885726,
+        "distancia": 180.64,
+        "mao_unica": false,
+        "nome": "Rua Juiz Francisco Augusto de Oliveira"
+    },
+    {
+        "origem": 3874885725,
+        "destino": 616924078,
+        "distancia": 36.97,
+        "mao_unica": true,
+        "nome": "Rua Eliseu Uchôa Becco"
+    },
+    {
+        "origem": 3874885726,
+        "destino": 3874885725,
+        "distancia": 180.64,
+        "mao_unica": false,
+        "nome": "Rua Juiz Francisco Augusto de Oliveira"
+    },
+    {
+        "origem": 3874885726,
+        "destino": 2022455050,
+        "distancia": 42.29,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 3874885727,
+        "destino": 3874885728,
+        "distancia": 110.09,
+        "mao_unica": false,
+        "nome": "Rua Paulo Roberto Pinheiro"
+    },
+    {
+        "origem": 3874885727,
+        "destino": 616923975,
+        "distancia": 38.66,
+        "mao_unica": false,
+        "nome": [
+            "Rua Paulo Roberto Pinheiro",
+            "Rua Justino Café Neto"
+        ]
+    },
+    {
+        "origem": 3874885728,
+        "destino": 3874885727,
+        "distancia": 110.09,
+        "mao_unica": false,
+        "nome": "Rua Paulo Roberto Pinheiro"
+    },
+    {
+        "origem": 3874885728,
+        "destino": 2022454788,
+        "distancia": 48.88,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 3874885730,
+        "destino": 3874885728,
+        "distancia": 45.58,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 3874885730,
+        "destino": 3874885733,
+        "distancia": 139.98,
+        "mao_unica": false,
+        "nome": "Rua Olavo Lima"
+    },
+    {
+        "origem": 3874885733,
+        "destino": 616923975,
+        "distancia": 25.9,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 3874885733,
+        "destino": 5435417896,
+        "distancia": 51.63,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 3874885733,
+        "destino": 3874885730,
+        "distancia": 139.98,
+        "mao_unica": false,
+        "nome": "Rua Olavo Lima"
+    },
+    {
+        "origem": 3874885734,
+        "destino": 616923983,
+        "distancia": 41.3,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 3874885734,
+        "destino": 616923920,
+        "distancia": 50.86,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 3874885734,
+        "destino": 3338846594,
+        "distancia": 170.83,
+        "mao_unica": false,
+        "nome": "Rua Albert Sabin"
+    },
+    {
+        "origem": 3874885736,
+        "destino": 3874885730,
+        "distancia": 50.05,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 3874885736,
+        "destino": 3874885738,
+        "distancia": 95.29,
+        "mao_unica": false,
+        "nome": "Rua Comandante José Cals de Oliveira"
+    },
+    {
+        "origem": 3874885738,
+        "destino": 3874885736,
+        "distancia": 95.29,
+        "mao_unica": false,
+        "nome": "Rua Comandante José Cals de Oliveira"
+    },
+    {
+        "origem": 3874885738,
+        "destino": 1857429746,
+        "distancia": 62.25,
+        "mao_unica": true,
+        "nome": "Rua Comandante José Cals de Oliveira"
     },
     {
         "origem": 3935991834,
@@ -7502,6 +9498,104 @@
         "nome": "Avenida Mário Câmara Vieira"
     },
     {
+        "origem": 4324529574,
+        "destino": 2431739664,
+        "distancia": 15.32,
+        "mao_unica": true,
+        "nome": "Rua Firmino Rocha Aguiar"
+    },
+    {
+        "origem": 4324529575,
+        "destino": 4324529577,
+        "distancia": 139.83,
+        "mao_unica": false,
+        "nome": "Rua Felipe Nery"
+    },
+    {
+        "origem": 4324529576,
+        "destino": 12614688551,
+        "distancia": 43.5,
+        "mao_unica": false,
+        "nome": "Rua Romeu Aldguery"
+    },
+    {
+        "origem": 4324529576,
+        "destino": 4324529578,
+        "distancia": 201.67,
+        "mao_unica": false,
+        "nome": "Rua Dona Federalina Augusto Lima"
+    },
+    {
+        "origem": 4324529576,
+        "destino": 2022455278,
+        "distancia": 75.59,
+        "mao_unica": false,
+        "nome": "Rua Romeu Aldguery"
+    },
+    {
+        "origem": 4324529576,
+        "destino": 4324529574,
+        "distancia": 199.08,
+        "mao_unica": true,
+        "nome": "Rua Dona Federalina Augusto Lima"
+    },
+    {
+        "origem": 4324529577,
+        "destino": 4324529579,
+        "distancia": 200.93,
+        "mao_unica": false,
+        "nome": "Rua Felipe Nery"
+    },
+    {
+        "origem": 4324529577,
+        "destino": 2022454748,
+        "distancia": 81.02,
+        "mao_unica": false,
+        "nome": "Rua Romeu Aldguery"
+    },
+    {
+        "origem": 4324529577,
+        "destino": 4324529575,
+        "distancia": 139.83,
+        "mao_unica": false,
+        "nome": "Rua Felipe Nery"
+    },
+    {
+        "origem": 4324529578,
+        "destino": 4324529576,
+        "distancia": 201.67,
+        "mao_unica": false,
+        "nome": "Rua Dona Federalina Augusto Lima"
+    },
+    {
+        "origem": 4324529578,
+        "destino": 5364433435,
+        "distancia": 90.01,
+        "mao_unica": true,
+        "nome": "Avenida Chanceler Edson Queiroz"
+    },
+    {
+        "origem": 4324529579,
+        "destino": 5659224655,
+        "distancia": 11.22,
+        "mao_unica": false,
+        "nome": "Rua Felipe Nery"
+    },
+    {
+        "origem": 4324529579,
+        "destino": 4324529577,
+        "distancia": 200.93,
+        "mao_unica": false,
+        "nome": "Rua Felipe Nery"
+    },
+    {
+        "origem": 4324529579,
+        "destino": 12632968171,
+        "distancia": 73.47,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
         "origem": 4325530801,
         "destino": 1621153735,
         "distancia": 13.99,
@@ -7521,6 +9615,13 @@
         "distancia": 247.56,
         "mao_unica": false,
         "nome": "Rua Dom Delgado"
+    },
+    {
+        "origem": 4413975321,
+        "destino": 680069379,
+        "distancia": 84.91,
+        "mao_unica": true,
+        "nome": "Avenida Rogaciano Leite"
     },
     {
         "origem": 4420968514,
@@ -7572,11 +9673,378 @@
         "nome": "Avenida Washington Soares"
     },
     {
+        "origem": 5124614054,
+        "destino": 5124614055,
+        "distancia": 94.14,
+        "mao_unica": false,
+        "nome": "Rua Altair Farias"
+    },
+    {
+        "origem": 5124614054,
+        "destino": 2022455229,
+        "distancia": 182.54,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 5124614055,
+        "destino": 5124614054,
+        "distancia": 94.14,
+        "mao_unica": false,
+        "nome": "Rua Altair Farias"
+    },
+    {
+        "origem": 5124614055,
+        "destino": 616923996,
+        "distancia": 92.72,
+        "mao_unica": false,
+        "nome": "Rua Altair Farias"
+    },
+    {
+        "origem": 5124614055,
+        "destino": 616923971,
+        "distancia": 166.91,
+        "mao_unica": false,
+        "nome": "Rua Francisco Farias Filho"
+    },
+    {
+        "origem": 5124614055,
+        "destino": 622414478,
+        "distancia": 114.78,
+        "mao_unica": false,
+        "nome": "Rua Francisco Farias Filho"
+    },
+    {
+        "origem": 5124614056,
+        "destino": 2022455254,
+        "distancia": 86.44,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 5124614075,
+        "destino": 5124614076,
+        "distancia": 11.25,
+        "mao_unica": false,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 5124614075,
+        "destino": 2022455223,
+        "distancia": 83.18,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 5124614076,
+        "destino": 5124614075,
+        "distancia": 11.25,
+        "mao_unica": false,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 5124614076,
+        "destino": 2022455291,
+        "distancia": 117.49,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 5124614077,
+        "destino": 5124614054,
+        "distancia": 47.29,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 5124614077,
+        "destino": 2518355166,
+        "distancia": 13.05,
+        "mao_unica": false,
+        "nome": "Rua Doutor Adjemir Parahyba"
+    },
+    {
+        "origem": 5124614078,
+        "destino": 5124614079,
+        "distancia": 12.76,
+        "mao_unica": false,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 5124614078,
+        "destino": 2022455028,
+        "distancia": 38.81,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 5124614079,
+        "destino": 5124614078,
+        "distancia": 12.76,
+        "mao_unica": false,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 5124614079,
+        "destino": 616919276,
+        "distancia": 75.65,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 5124614080,
+        "destino": 616919269,
+        "distancia": 11.53,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 5124614080,
+        "destino": 2022455160,
+        "distancia": 166.73,
+        "mao_unica": true,
+        "nome": "Rua Firmino Rocha Aguiar"
+    },
+    {
+        "origem": 5124614082,
+        "destino": 2022455298,
+        "distancia": 2.26,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 5253376023,
+        "destino": 622414459,
+        "distancia": 152.24,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
         "origem": 5335275197,
         "destino": 616924090,
         "distancia": 146.74,
         "mao_unica": false,
         "nome": "Rua Francisco Xerez"
+    },
+    {
+        "origem": 5335276129,
+        "destino": 2722597758,
+        "distancia": 45.4,
+        "mao_unica": false,
+        "nome": "Rua Olímpio Galdino de Sousa"
+    },
+    {
+        "origem": 5357297987,
+        "destino": 616923923,
+        "distancia": 44.75,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 5357297987,
+        "destino": 3338846621,
+        "distancia": 100.79,
+        "mao_unica": true,
+        "nome": "Avenida Rogaciano Leite"
+    },
+    {
+        "origem": 5357297989,
+        "destino": 622414478,
+        "distancia": 11.4,
+        "mao_unica": false,
+        "nome": "Rua Francisco Farias Filho"
+    },
+    {
+        "origem": 5357297989,
+        "destino": 1953668750,
+        "distancia": 99.1,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 5357297991,
+        "destino": 616919271,
+        "distancia": 59.72,
+        "mao_unica": true,
+        "nome": "Avenida Chanceler Edson Queiroz"
+    },
+    {
+        "origem": 5357297993,
+        "destino": 2431739576,
+        "distancia": 6.99,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 5357297995,
+        "destino": 2819389692,
+        "distancia": 41.08,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 5357297997,
+        "destino": 5357297993,
+        "distancia": 33.06,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 5357297997,
+        "destino": 5357297995,
+        "distancia": 14.37,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 5357298000,
+        "destino": 5357298005,
+        "distancia": 30.76,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 5357298001,
+        "destino": 5357298002,
+        "distancia": 22.76,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 5357298001,
+        "destino": 5357298000,
+        "distancia": 14.66,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 5357298002,
+        "destino": 2413974617,
+        "distancia": 188.8,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 5357298003,
+        "destino": 5357298000,
+        "distancia": 23.24,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 5357298003,
+        "destino": 5357298002,
+        "distancia": 15.35,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 5357298004,
+        "destino": 3811452384,
+        "distancia": 31.51,
+        "mao_unica": false,
+        "nome": "Rua Gontran Giffoni"
+    },
+    {
+        "origem": 5357298004,
+        "destino": 5357298005,
+        "distancia": 228.16,
+        "mao_unica": false,
+        "nome": "Rua Professor Jacinto Botelho"
+    },
+    {
+        "origem": 5357298004,
+        "destino": 5357298006,
+        "distancia": 78.5,
+        "mao_unica": false,
+        "nome": "Rua Gontran Giffoni"
+    },
+    {
+        "origem": 5357298005,
+        "destino": 5357298004,
+        "distancia": 228.16,
+        "mao_unica": false,
+        "nome": "Rua Professor Jacinto Botelho"
+    },
+    {
+        "origem": 5357298005,
+        "destino": 2022455341,
+        "distancia": 154.92,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 5357298006,
+        "destino": 2819389685,
+        "distancia": 219.02,
+        "mao_unica": false,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 5357298006,
+        "destino": 5357298007,
+        "distancia": 79.59,
+        "mao_unica": false,
+        "nome": "Rua Gontran Giffoni"
+    },
+    {
+        "origem": 5357298006,
+        "destino": 5357298004,
+        "distancia": 78.5,
+        "mao_unica": false,
+        "nome": "Rua Gontran Giffoni"
+    },
+    {
+        "origem": 5357298007,
+        "destino": 5357298008,
+        "distancia": 208.31,
+        "mao_unica": false,
+        "nome": "Rua José Otoch"
+    },
+    {
+        "origem": 5357298007,
+        "destino": 5357298006,
+        "distancia": 79.59,
+        "mao_unica": false,
+        "nome": "Rua Gontran Giffoni"
+    },
+    {
+        "origem": 5357298008,
+        "destino": 2819389685,
+        "distancia": 78.21,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 5357298008,
+        "destino": 5357298007,
+        "distancia": 208.31,
+        "mao_unica": false,
+        "nome": "Rua José Otoch"
+    },
+    {
+        "origem": 5364433113,
+        "destino": 2431739632,
+        "distancia": 794.29,
+        "mao_unica": true,
+        "nome": [
+            "Ligação ao Centro de Eventos",
+            "Túnel Deputado Edson Queiroz Filho"
+        ]
+    },
+    {
+        "origem": 5364433113,
+        "destino": 2431739527,
+        "distancia": 95.52,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 5364433435,
+        "destino": 5357297991,
+        "distancia": 100.5,
+        "mao_unica": true,
+        "nome": "Avenida Chanceler Edson Queiroz"
     },
     {
         "origem": 5397028383,
@@ -7626,6 +10094,48 @@
         "distancia": 49.11,
         "mao_unica": true,
         "nome": "Avenida Edilson Brasil Soares"
+    },
+    {
+        "origem": 5435417896,
+        "destino": 3874885733,
+        "distancia": 51.63,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 5435417896,
+        "destino": 1857429746,
+        "distancia": 9.25,
+        "mao_unica": false,
+        "nome": "Rua Justino Café Neto"
+    },
+    {
+        "origem": 5435417896,
+        "destino": 3874885738,
+        "distancia": 62.88,
+        "mao_unica": true,
+        "nome": "Rua Comandante José Cals de Oliveira"
+    },
+    {
+        "origem": 5522884706,
+        "destino": 621912757,
+        "distancia": 624.05,
+        "mao_unica": true,
+        "nome": "Avenida Sebastião de Abreu"
+    },
+    {
+        "origem": 5522884708,
+        "destino": 5522884703,
+        "distancia": 68.59,
+        "mao_unica": true,
+        "nome": "Avenida Sebastião de Abreu"
+    },
+    {
+        "origem": 5522884708,
+        "destino": 5522884706,
+        "distancia": 45.54,
+        "mao_unica": true,
+        "nome": "Desconhecido"
     },
     {
         "origem": 5525095716,
@@ -7920,6 +10430,20 @@
         "nome": "Rua Cidade Ecológica"
     },
     {
+        "origem": 5659224655,
+        "destino": 4324529579,
+        "distancia": 11.22,
+        "mao_unica": false,
+        "nome": "Rua Felipe Nery"
+    },
+    {
+        "origem": 5659224655,
+        "destino": 2022455275,
+        "distancia": 78.02,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
         "origem": 5667607202,
         "destino": 11371596323,
         "distancia": 3.52,
@@ -8012,10 +10536,31 @@
     },
     {
         "origem": 6699124333,
+        "destino": 5253376023,
+        "distancia": 220.59,
+        "mao_unica": true,
+        "nome": "Avenida Washington Soares"
+    },
+    {
+        "origem": 6699124333,
         "destino": 4745963340,
         "distancia": 146.18,
         "mao_unica": true,
         "nome": "Desconhecido"
+    },
+    {
+        "origem": 6941759421,
+        "destino": 2022455109,
+        "distancia": 22.24,
+        "mao_unica": false,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 6941759421,
+        "destino": 2431739576,
+        "distancia": 150.67,
+        "mao_unica": false,
+        "nome": "Rua Eliseu Becco Filho"
     },
     {
         "origem": 7028120325,
@@ -8725,9 +11270,51 @@
         "nome": "Rua Professor Wilson Aguiar"
     },
     {
+        "origem": 7189867640,
+        "destino": 1857388491,
+        "distancia": 56.19,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 7189867640,
+        "destino": 2022455254,
+        "distancia": 10.57,
+        "mao_unica": false,
+        "nome": "Rua Professor Jacinto Botelho"
+    },
+    {
         "origem": 7190034825,
         "destino": 2431739555,
         "distancia": 14.61,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 7660832386,
+        "destino": 5124614082,
+        "distancia": 15.66,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 7660832386,
+        "destino": 622414478,
+        "distancia": 129.33,
+        "mao_unica": true,
+        "nome": "Avenida Atilano de Moura"
+    },
+    {
+        "origem": 7660832785,
+        "destino": 12964892300,
+        "distancia": 73.83,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 7660832785,
+        "destino": 2022455229,
+        "distancia": 15.82,
         "mao_unica": true,
         "nome": "Desconhecido"
     },
@@ -8879,6 +11466,13 @@
         "nome": "Rua Joaquim Vitorino"
     },
     {
+        "origem": 7841016888,
+        "destino": 2022455020,
+        "distancia": 93.34,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
         "origem": 8080168819,
         "destino": 1867354674,
         "distancia": 7.11,
@@ -8893,11 +11487,32 @@
         "nome": "Desconhecido"
     },
     {
+        "origem": 8080168823,
+        "destino": 5522884706,
+        "distancia": 55.17,
+        "mao_unica": true,
+        "nome": "Avenida Sebastião de Abreu"
+    },
+    {
+        "origem": 8080168823,
+        "destino": 5522884703,
+        "distancia": 40.13,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
         "origem": 8084268694,
         "destino": 11371596325,
         "distancia": 2.78,
         "mao_unica": true,
         "nome": "Desconhecido"
+    },
+    {
+        "origem": 8477337083,
+        "destino": 616924112,
+        "distancia": 67.65,
+        "mao_unica": false,
+        "nome": "Rua Valdetário Monteiro Chaves"
     },
     {
         "origem": 8483313034,
@@ -9171,6 +11786,13 @@
         "distancia": 49.62,
         "mao_unica": true,
         "nome": "Rua Cidade Ecológica"
+    },
+    {
+        "origem": 8501178798,
+        "destino": 4413975321,
+        "distancia": 41.43,
+        "mao_unica": true,
+        "nome": "Avenida Rogaciano Leite"
     },
     {
         "origem": 8515685478,
@@ -9748,6 +12370,160 @@
         "distancia": 88.92,
         "mao_unica": true,
         "nome": "Avenida Edilson Brasil Soares"
+    },
+    {
+        "origem": 12614688549,
+        "destino": 12614688551,
+        "distancia": 8.41,
+        "mao_unica": false,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 12614688551,
+        "destino": 4324529576,
+        "distancia": 43.5,
+        "mao_unica": false,
+        "nome": "Rua Romeu Aldguery"
+    },
+    {
+        "origem": 12614688551,
+        "destino": 12614688549,
+        "distancia": 8.41,
+        "mao_unica": false,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 12614688551,
+        "destino": 2268397100,
+        "distancia": 34.33,
+        "mao_unica": false,
+        "nome": "Rua Romeu Aldguery"
+    },
+    {
+        "origem": 12614920637,
+        "destino": 12614920639,
+        "distancia": 7.02,
+        "mao_unica": false,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 12614920639,
+        "destino": 2819389692,
+        "distancia": 105.75,
+        "mao_unica": false,
+        "nome": "Rua Coronel João Augusto Lima"
+    },
+    {
+        "origem": 12614920639,
+        "destino": 12614920637,
+        "distancia": 7.02,
+        "mao_unica": false,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 12614920639,
+        "destino": 616919329,
+        "distancia": 145.07,
+        "mao_unica": false,
+        "nome": "Rua Coronel João Augusto Lima"
+    },
+    {
+        "origem": 12632968171,
+        "destino": 12632968177,
+        "distancia": 7.0,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 12632968172,
+        "destino": 2022454777,
+        "distancia": 16.51,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 12632968172,
+        "destino": 2819389687,
+        "distancia": 200.76,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 12632968175,
+        "destino": 12632968171,
+        "distancia": 11.59,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 12632968175,
+        "destino": 5659224655,
+        "distancia": 74.01,
+        "mao_unica": true,
+        "nome": "Rua Desembargador Manuel Sales de Andrade"
+    },
+    {
+        "origem": 12632968176,
+        "destino": 616919222,
+        "distancia": 119.17,
+        "mao_unica": false,
+        "nome": "Rua Jornalista César Magalhães"
+    },
+    {
+        "origem": 12632968176,
+        "destino": 12632968175,
+        "distancia": 6.48,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 12632968177,
+        "destino": 2022454748,
+        "distancia": 192.55,
+        "mao_unica": false,
+        "nome": "Rua Jornalista César Magalhães"
+    },
+    {
+        "origem": 12632968177,
+        "destino": 12632968172,
+        "distancia": 4.74,
+        "mao_unica": true,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 12964892300,
+        "destino": 2518355178,
+        "distancia": 76.21,
+        "mao_unica": true,
+        "nome": "Avenida Coronel Miguel Dias"
+    },
+    {
+        "origem": 12964892300,
+        "destino": 12964918301,
+        "distancia": 173.12,
+        "mao_unica": false,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 12964918301,
+        "destino": 12964892300,
+        "distancia": 173.12,
+        "mao_unica": false,
+        "nome": "Desconhecido"
+    },
+    {
+        "origem": 12964918301,
+        "destino": 1907769090,
+        "distancia": 78.95,
+        "mao_unica": true,
+        "nome": "Rua Eliseu Uchôa Becco"
+    },
+    {
+        "origem": 13462491788,
+        "destino": 2431739568,
+        "distancia": 124.12,
+        "mao_unica": true,
+        "nome": "Avenida Chanceler Edson Queiroz"
     },
     {
         "origem": 13736573679,
