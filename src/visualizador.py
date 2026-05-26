@@ -4,7 +4,7 @@ from algoritmos import AnalisadorGrafo
 
 def gerar_visualizacao_analitica():
     print("Iniciando renderização analítica das camadas...")
-    grafo = LeitorJSON.carregar_grafo('../data/nos.json', '../data/arestas.json')
+    grafo = LeitorJSON.carregar_grafo('data/nos.json', 'data/arestas.json')
     
     if not grafo.vertices:
         return

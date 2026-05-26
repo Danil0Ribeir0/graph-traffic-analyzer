@@ -1,10 +1,23 @@
 import json
-from grafo import Grafo
-from modelos import Vertice
+import os
+from src.grafo import Grafo
+from src.modelos import Vertice
+from src.extrator_osm import extrair_dados_malha_viaria
 
 class LeitorJSON:
     @staticmethod
-    def carregar_grafo(caminho_nos: str, caminho_arestas: str) -> Grafo:
+    def carregar_grafo(caminho_nos: str, caminho_arestas: str, bairros_alvo: list = None) -> Grafo:
+        if not os.path.exists(caminho_nos) or not os.path.exists(caminho_arestas):
+            print("Arquivos de dados não encontrados localmente.")
+            print("Iniciando extração automática via API do OpenStreetMap...")
+            
+            os.makedirs(os.path.dirname(caminho_nos), exist_ok=True)
+            
+            if not bairros_alvo:
+                bairros_alvo = ["Edson Queiroz, Fortaleza, Ceará, Brasil"]
+                
+            extrair_dados_malha_viaria(bairros_alvo)
+
         grafo = Grafo()
 
         with open(caminho_nos, 'r', encoding='utf-8') as f:
