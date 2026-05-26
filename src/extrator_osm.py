@@ -1,10 +1,10 @@
 import osmnx as ox
 import json
 
-def extrair_dados_malha_viaria(local):
-    print(f"Baixando dados da malha viária para: {local}...")
+def extrair_dados_malha_viaria(locais):
+    print(f"Baixando dados da malha viária para: {locais}...")
     
-    G = ox.graph_from_place(local, network_type='drive')
+    G = ox.graph_from_place(locais, network_type='drive')
     
     print("Processando nós (cruzamentos) e arestas (ruas)...")
     
@@ -33,3 +33,12 @@ def extrair_dados_malha_viaria(local):
         json.dump(arestas, f, ensure_ascii=False, indent=4)
         
     print(f"Extração concluída! {len(nos)} nós e {len(arestas)} arestas salvos.")
+
+if __name__ == "__main__":
+    bairros_alvo = [
+        "Edson Queiroz, Fortaleza, Ceará, Brasil",
+        "Guararapes, Fortaleza, Ceará, Brasil",
+        "Cocó, Fortaleza, Ceará, Brasil"
+    ]
+    
+    extrair_dados_malha_viaria(bairros_alvo)

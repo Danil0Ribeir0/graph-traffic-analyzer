@@ -82,8 +82,11 @@ class AnalisadorGrafo:
         return None, None
 
     @staticmethod
-    def dijkstra(grafo: Grafo, inicio: int, destino: int) -> Tuple[Optional[List[int]], float]:
-        if inicio not in grafo.vertices or destino not in grafo.vertices:
+    def dijkstra(grafo: Grafo, inicio: int, destino: int, nos_ignorados: set = None) -> Tuple[Optional[List[int]], float]:
+        if nos_ignorados is None:
+            nos_ignorados = set()
+
+        if inicio not in grafo.vertices or destino not in grafo.vertices or inicio in nos_ignorados or destino in nos_ignorados:
             return None, float('inf')
 
         distancias: Dict[int, float] = {no: float('inf') for no in grafo.vertices}
@@ -103,8 +106,11 @@ class AnalisadorGrafo:
                 
             for aresta in grafo.vertices[no_atual].arestas:
                 vizinho = aresta.destino
-                peso = aresta.peso
                 
+                if vizinho in nos_ignorados:
+                    continue
+                    
+                peso = aresta.peso
                 nova_dist = distancias[no_atual] + peso
                 
                 if nova_dist < distancias[vizinho]:
@@ -122,3 +128,45 @@ class AnalisadorGrafo:
             atual = predecessores[atual]
             
         return caminho[::-1], distancias[destino]
+
+    @staticmethod
+    def verificar_conectividade(grafo: Grafo) -> Tuple[bool, int, int]:
+        if not grafo.vertices:
+            return False, 0, 0
+            
+        origem = list(grafo.vertices.keys())[0]
+        
+        visitados = {origem}
+        fila = deque([origem])
+        
+        while fila:
+            u = fila.popleft()
+            for aresta in grafo.vertices[u].arestas:
+                v = aresta.destino
+                if v not in visitados:
+                    visitados.add(v)
+                    fila.append(v)
+                    
+        total_vertices = len(grafo.vertices)
+        total_alcancado = len(visitados)
+        
+        is_conexo = (total_alcancado == total_vertices)
+        return is_conexo, total_alcancado, total_vertices
+
+    @staticmethod
+    def calcular_graus(grafo: Grafo, top_n: int = 5) -> List[Tuple[int, int]]:
+        graus = {v_id: 0 for v_id in grafo.vertices}
+        
+        for v_id, vertice in grafo.vertices.items():
+            graus[v_id] += len(vertice.arestas)
+            
+            for aresta in vertice.arestas:
+                if aresta.destino in graus:
+                    graus[aresta.destino] += 1
+                    
+        def obter_grau(item: Tuple[int, int]) -> int:
+            return item[1]
+            
+        top_vertices = sorted(graus.items(), key=obter_grau, reverse=True)
+        
+        return top_vertices[:top_n]
